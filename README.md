@@ -5,7 +5,7 @@ This is a simple calculator built using HTML, CSS, and JavaScript as part of my 
 🎥 **Demo Video:** [Watch here](https://youtu.be/ij6TXJWGz4Y)
 
 🌐 **Live Site:** [Click here to use the calculator](https://haritha-vana.github.io/internpe-task1-calculator/)
-📌 **[LinkedIn Post – Internship Project]**  [Check it out here] (https://www.linkedin.com/posts/haritha-vana-1622b2341_internship-webdevelopment-javascript-activity-7354937103798927360-3JFo)
+📌 **LinkedIn Post – Internship Project**: [Check it out here](https://www.linkedin.com/posts/haritha-vana-1622b2341_internship-webdevelopment-javascript-activity-7354937103798927360-3JFo)
 
 ---
 
