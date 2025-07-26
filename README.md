@@ -16,7 +16,7 @@ This is a simple calculator built using **HTML**, **CSS**, and **JavaScript** as
 
 ## How to Use
 1. Clone or download the repository
-2. Open `index.html` in any modern web browser
+2. Open `caculator.html` in any modern web browser
 3. Use the calculator buttons to perform calculations
 
 ---
